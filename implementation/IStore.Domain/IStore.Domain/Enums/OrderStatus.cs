@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IStore.Domain.Enums
+﻿namespace IStore.Domain.Enums
 {
-    internal class Class1
+    public enum OrderStatus
     {
+        InProgress = 1,
+        Ready = 2,
+        Closed = 3,
     }
 }

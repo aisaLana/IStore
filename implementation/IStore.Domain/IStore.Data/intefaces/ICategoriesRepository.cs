@@ -1,12 +1,12 @@
-﻿using System;
+﻿using IStore.Domain;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace IStore.Data.intefaces
+namespace IStore.Data.Interfaces
 {
-    internal class Class1
+    public interface ICategoriesRepository : IRepository<Category>
     {
+        IEnumerable<Category> GetAllByName(string name);
+
+        int DeleteWithChildren(int id);
     }
 }

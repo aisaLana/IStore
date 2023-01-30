@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using IStore.Domain;
 
-namespace IStore.Data.intefaces
+namespace IStore.Data.Interfaces
 {
-    internal class Class1
+    public interface ICommentsRepository : IRepository<Comment>
     {
+        int Attach(int parentId, Comment child);
+        int CreateRoot(Comment comment);
+        int DeleteWithChildren(int parentId);
     }
 }

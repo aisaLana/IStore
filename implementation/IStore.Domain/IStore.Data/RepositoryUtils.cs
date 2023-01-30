@@ -1,12 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IStore.Data
 {
-    internal class Class1
+    public static class RepositoryUtils
     {
+        public static string DateTimeToString(DateTime dateTime)
+        {
+            return dateTime.ToString("yyyy-MM-dd H:mm:ss");
+        }
     }
 }

@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace IStore.Data.intefaces
+namespace IStore.Data.Interfaces
 {
-    internal class Class1
+    public interface IRepository<T>
     {
+        string TableName { get; }
+        string ConnectionString { get; }
+
+        int Create(T obj);
+        T Get(int id);
+        IEnumerable<T> GetAll();
+        int Update(T obj);
+        int Delete(int id);
     }
 }
