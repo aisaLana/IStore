@@ -9,7 +9,7 @@ namespace IStore.Data.Interfaces
 
         int Create(T obj);
         T Get(int id);
-        IEnumerable<T> GetAll();
+       // IEnumerable<T> GetAll();
         int Update(T obj);
         int Delete(int id);
     }

@@ -64,6 +64,9 @@ namespace IStore.Data.Repositories
         {
             using (IDbConnection connection = new MySqlConnection(ConnectionString))
             {
+                //var query = $@"SELECT * FROM {TableName} AS p
+                //            JOIN categories AS c
+                //            ON p.category_id = c.id;";
                 var query = $@"SELECT * FROM {TableName} AS p
                             JOIN categories AS c
                             ON p.category_id = c.id;";
