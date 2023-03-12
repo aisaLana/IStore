@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Web\obj\Debug\net6.0\IStore.Web.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Web\obj\Debug\net6.0\IStore.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Web\obj\Debug\net6.0\IStore.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Web\obj\Debug\net6.0\IStore.Web.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Web\obj\Debug\net6.0\IStore.Web.csproj.CoreCompileInputs.cache

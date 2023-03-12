@@ -26,7 +26,7 @@ namespace IStore.Sandbox
             dbsb.Add("Server", "localhost");
             dbsb.Add("Database", "istoredb");
             dbsb.Add("User Id", "root");
-            dbsb.Add("Password", "admin");
+            dbsb.Add("Password", "root");
 
             connectionString = dbsb.ConnectionString;
         }
