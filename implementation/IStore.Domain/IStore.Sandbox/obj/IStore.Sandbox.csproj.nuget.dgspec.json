@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj",
         "projectName": "IStore.BusinessLogic",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj"
+              "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj"
               }
             }
           }
@@ -66,7 +70,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,21 +80,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj",
         "projectName": "IStore.Data",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj"
               }
             }
           }
@@ -134,7 +143,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -143,21 +153,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj",
         "projectName": "IStore.Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -188,7 +202,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -197,21 +212,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj",
         "projectName": "IStore.Sandbox",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\IStore.Sandbox.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Sandbox\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -225,14 +244,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj"
+              "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.BusinessLogic\\IStore.BusinessLogic.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj"
+              "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj"
+              "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Domain\\IStore.Domain.csproj"
               }
             }
           }
@@ -262,7 +281,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -271,7 +291,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

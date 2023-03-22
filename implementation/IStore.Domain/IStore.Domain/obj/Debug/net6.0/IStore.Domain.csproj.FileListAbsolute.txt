@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.D
 C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\refint\IStore.Domain.dll
 C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.pdb
 C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\ref\IStore.Domain.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\bin\Debug\net6.0\IStore.Domain.deps.json
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\bin\Debug\net6.0\IStore.Domain.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\bin\Debug\net6.0\IStore.Domain.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\refint\IStore.Domain.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\IStore.Domain.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Domain\obj\Debug\net6.0\ref\IStore.Domain.dll

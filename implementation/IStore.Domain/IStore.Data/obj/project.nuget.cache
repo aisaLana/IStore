@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "actJgEFhDER2xpIrHYL3+b+hxdnCVmApt6v8Wtn7BnZ3iCQzTbECrzjw0rS2axStClsJXzozLjjbZDh35L19fA==",
+  "dgSpecHash": "AO8NdwU7wF1aosHSUMjTu79aMaLJ2sBZoezn3nrGn9YKSFGtWoKMfLxP33ePA6fiPNKtWqNNK+pbVD7T8PHFXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Диплом\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore.Domain\\IStore.Data\\IStore.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

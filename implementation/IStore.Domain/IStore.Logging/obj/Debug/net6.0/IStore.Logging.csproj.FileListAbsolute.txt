@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.L
 C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\refint\IStore.Logging.dll
 C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.pdb
 C:\Users\Admin\Desktop\Диплом\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\ref\IStore.Logging.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\bin\Debug\net6.0\IStore.Logging.deps.json
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\bin\Debug\net6.0\IStore.Logging.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\bin\Debug\net6.0\IStore.Logging.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\refint\IStore.Logging.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\IStore.Logging.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Logging\obj\Debug\net6.0\ref\IStore.Logging.dll

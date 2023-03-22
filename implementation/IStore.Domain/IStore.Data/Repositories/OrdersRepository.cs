@@ -76,12 +76,12 @@ namespace IStore.Data.Repositories
 
 
 
-                var orders = connection.Query<Order, User, UserRole, Order, Product>(query, (order, user, userrole, product) =>
+                var orders = connection.Query<Order, User, UserRole, List<OrderItem>, Order>(query, (order, user, userrole, orderItems) =>
                 {
                     order.User = user;
                     order.User.UserRole = userrole;
-                    /*order.OrderItems = product; //*/
-                    //return order; // TODO!!!!!!!!!!!!!!!!!!!!!!!
+                    order.OrderItems = orderItems;
+                    return order; // TODO!!!!!!!!!!!!!!!!!!!!!!!
                 },
                 splitOn: "id");
 
