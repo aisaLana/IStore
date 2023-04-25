@@ -171,3 +171,19 @@ System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport
 2023-04-01 17:53:47,359 INFO Application started. Press Ctrl+C to shut down.
 2023-04-01 17:53:57,909 INFO Hosting environment: Development
 2023-04-01 17:53:58,022 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 09:34:43,809 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 09:35:09,720 INFO Hosting environment: Development
+2023-04-12 09:35:10,052 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 09:49:50,453 INFO Now listening on: https://localhost:5001
+2023-04-12 09:49:58,636 INFO Now listening on: http://localhost:5000
+2023-04-12 09:49:58,892 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 09:49:59,172 INFO Hosting environment: Development
+2023-04-12 09:49:59,330 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 11:39:45,728 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 11:40:14,957 INFO Hosting environment: Development
+2023-04-12 11:40:16,787 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 11:59:42,640 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 12:00:04,225 INFO Hosting environment: Development
+2023-04-12 12:00:05,239 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-25 10:36:56,725 INFO Now listening on: https://localhost:5001
+2023-04-25 12:25:31,427 INFO Now listening on: https://localhost:5001
