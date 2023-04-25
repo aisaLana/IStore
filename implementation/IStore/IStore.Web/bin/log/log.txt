@@ -1,0 +1,12 @@
+2023-04-25 13:40:45,238 INFO Application started. Press Ctrl+C to shut down.
+2023-04-25 13:40:55,940 INFO Index
+2023-04-25 13:41:14,484 INFO Hosting environment: Development
+2023-04-25 13:41:16,301 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web
+2023-04-25 13:49:29,591 INFO Application started. Press Ctrl+C to shut down.
+2023-04-25 13:49:35,538 INFO Index
+2023-04-25 13:49:46,148 INFO Hosting environment: Development
+2023-04-25 13:49:46,451 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web
+2023-04-25 14:02:35,313 INFO Application started. Press Ctrl+C to shut down.
+2023-04-25 14:02:37,426 INFO Index
+2023-04-25 14:02:39,845 INFO Hosting environment: Development
+2023-04-25 14:02:40,136 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web

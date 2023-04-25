@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.BusinessLogic.deps.json
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.BusinessLogic.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.BusinessLogic.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.Data.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.Domain.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.Domain.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\bin\Debug\netcoreapp6.0\IStore.Data.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.csproj.CopyComplete
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\refint\IStore.BusinessLogic.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\IStore.BusinessLogic.pdb
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\obj\Debug\netcoreapp6.0\ref\IStore.BusinessLogic.dll
