@@ -37,3 +37,62 @@
 2023-05-19 15:35:35,436 INFO Index
 2023-05-19 15:35:50,658 INFO Hosting environment: Development
 2023-05-19 15:35:55,669 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web
+2023-05-19 15:44:35,368 INFO Application started. Press Ctrl+C to shut down.
+2023-05-19 15:44:36,917 INFO Index
+2023-05-19 15:44:38,788 INFO Hosting environment: Development
+2023-05-19 15:44:39,500 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web
+2023-05-19 15:45:29,515 ERROR An unhandled exception has occurred while executing the request.
+Autofac.Core.DependencyResolutionException: An exception was thrown while activating IStore.BusinessLogic.Services.UsersManagementService.
+ ---> Autofac.Core.DependencyResolutionException: An exception was thrown while invoking the constructor 'Void .ctor(IStore.Data.Interfaces.IUsersRepository, IStore.Data.Interfaces.ISettingsRepository)' on type 'UsersManagementService'.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key '29545' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MySql.Data.MySqlClient.MySqlField.SetFieldEncoding()
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnData(MySqlField field)
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnsData(MySqlField[] columns)
+   at MySql.Data.MySqlClient.Driver.GetColumns(Int32 count)
+   at MySql.Data.MySqlClient.ResultSet.LoadColumns(Int32 numCols)
+   at MySql.Data.MySqlClient.ResultSet..ctor(Driver d, Int32 statementId, Int32 numCols)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.Close()
+   at MySql.Data.MySqlClient.MySqlCommand.ResetReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1051
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1177
+   at Dapper.SqlMapper.QueryFirstOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 761
+   at IStore.Data.Repositories.SettingsRepository.GetByKey(String key) in C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Data\Repositories\SettingsRepository.cs:line 71
+   at IStore.BusinessLogic.Security.StringEncryptor..ctor(ISettingsRepository settingsRepository) in C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\Security\StringEncryptor.cs:line 23
+   at IStore.BusinessLogic.Services.UsersManagementService..ctor(IUsersRepository usersRepository, ISettingsRepository settingsRepository) in C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.BusinessLogic\Services\UsersManagementService.cs:line 21
+   at lambda_method381(Closure , Object[] )
+   at Autofac.Core.Activators.Reflection.ConstructorParameterBinding.Instantiate()
+   --- End of inner exception stack trace ---
+   at Autofac.Core.Activators.Reflection.ConstructorParameterBinding.Instantiate()
+   at Autofac.Core.Activators.Reflection.ReflectionActivator.ActivateInstance(IComponentContext context, IEnumerable`1 parameters)
+   at Autofac.Core.Resolving.InstanceLookup.Activate(IEnumerable`1 parameters, Object& decoratorTarget)
+   --- End of inner exception stack trace ---
+   at Autofac.Core.Resolving.InstanceLookup.Activate(IEnumerable`1 parameters, Object& decoratorTarget)
+   at Autofac.Core.Lifetime.LifetimeScope.GetOrCreateAndShare(Guid id, Func`1 creator)
+   at Autofac.Core.Resolving.InstanceLookup.Execute()
+   at Autofac.Core.Resolving.ResolveOperation.GetOrCreateInstance(ISharingLifetimeScope currentOperationScope, ResolveRequest request)
+   at Autofac.Core.Resolving.ResolveOperation.Execute(ResolveRequest request)
+   at Autofac.ResolutionExtensions.TryResolveService(IComponentContext context, Service service, IEnumerable`1 parameters, Object& instance)
+   at Autofac.ResolutionExtensions.ResolveOptionalService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method378(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
