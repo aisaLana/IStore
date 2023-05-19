@@ -2766,7 +2766,7 @@
         "dependencies": {
           "Dapper": "2.0.35",
           "IStore.Domain": "1.0.0",
-          "MySql.Data": "8.0.21"
+          "MySql.Data": "8.0.22"
         },
         "compile": {
           "bin/placeholder/IStore.Data.dll": {}
