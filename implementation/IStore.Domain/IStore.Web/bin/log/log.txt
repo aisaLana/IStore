@@ -1,0 +1,189 @@
+2023-04-01 17:15:36,402 DEBUG Hosting starting
+2023-04-01 17:16:43,625 DEBUG Hosting starting
+2023-04-01 17:16:57,472 INFO User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-04-01 17:16:58,963 DEBUG Repository contains no viable default key. Caller should generate a key with immediate activation.
+2023-04-01 17:16:59,023 DEBUG Policy resolution states that a new key should be added to the key ring.
+2023-04-01 17:16:59,246 INFO Creating key {76f192d3-8929-4404-8ead-44a720b2156e} with creation date 2023-04-01 14:16:59Z, activation date 2023-04-01 14:16:58Z, and expiration date 2023-06-30 14:16:58Z.
+2023-04-01 17:16:59,620 DEBUG Descriptor deserializer type for key {76f192d3-8929-4404-8ead-44a720b2156e} is 'Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+2023-04-01 17:17:00,087 DEBUG No key escrow sink found. Not writing key {76f192d3-8929-4404-8ead-44a720b2156e} to escrow.
+2023-04-01 17:17:00,295 DEBUG Encrypting to Windows DPAPI for current user account (DESKTOP-70EUCI9\Admin).
+2023-04-01 17:17:00,663 INFO Writing data to file 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys\key-76f192d3-8929-4404-8ead-44a720b2156e.xml'.
+2023-04-01 17:17:00,818 DEBUG Key cache expiration token triggered by 'CreateNewKey' operation.
+2023-04-01 17:17:00,885 DEBUG Reading data from file 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys\key-76f192d3-8929-4404-8ead-44a720b2156e.xml'.
+2023-04-01 17:17:01,191 DEBUG Found key {76f192d3-8929-4404-8ead-44a720b2156e}.
+2023-04-01 17:17:01,265 DEBUG Considering key {76f192d3-8929-4404-8ead-44a720b2156e} with expiration date 2023-06-30 14:16:58Z as default key.
+2023-04-01 17:17:01,387 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-04-01 17:17:01,521 DEBUG Decrypting secret element using Windows DPAPI.
+2023-04-01 17:17:01,631 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-04-01 17:17:01,871 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2023-04-01 17:17:01,946 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2023-04-01 17:17:01,988 DEBUG Using key {76f192d3-8929-4404-8ead-44a720b2156e} as the default key.
+2023-04-01 17:17:02,017 DEBUG Key ring with default key {76f192d3-8929-4404-8ead-44a720b2156e} was loaded during application startup.
+2023-04-01 17:17:04,802 DEBUG Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'.
+2023-04-01 17:17:05,130 DEBUG Initializing Razor view compiler with compiled view: '/Views/Account/Registration.cshtml'.
+2023-04-01 17:17:05,266 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/CatalogManagement.cshtml'.
+2023-04-01 17:17:05,373 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/CheckIn.cshtml'.
+2023-04-01 17:17:05,468 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/Index.cshtml'.
+2023-04-01 17:17:05,547 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/OrderManagement.cshtml'.
+2023-04-01 17:17:05,616 DEBUG Initializing Razor view compiler with compiled view: '/Views/Cart/Index.cshtml'.
+2023-04-01 17:17:05,741 DEBUG Initializing Razor view compiler with compiled view: '/Views/Catalog/childView.cshtml'.
+2023-04-01 17:17:05,804 DEBUG Initializing Razor view compiler with compiled view: '/Views/Catalog/Index.cshtml'.
+2023-04-01 17:17:05,877 DEBUG Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2023-04-01 17:17:05,943 DEBUG Initializing Razor view compiler with compiled view: '/Views/Product/About.cshtml'.
+2023-04-01 17:17:05,999 DEBUG Initializing Razor view compiler with compiled view: '/Views/Product/Details.cshtml'.
+2023-04-01 17:17:06,038 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2023-04-01 17:17:06,103 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2023-04-01 17:17:06,190 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2023-04-01 17:17:06,554 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2023-04-01 17:17:08,387 DEBUG Using development certificate: CN=localhost (Thumbprint: 007A0BEF1C210341C04BF181FB7B70B1C63DC0F5)
+2023-04-01 17:17:08,924 INFO Now listening on: https://localhost:51553
+2023-04-01 17:17:09,018 INFO Now listening on: http://localhost:51554
+2023-04-01 17:17:09,071 DEBUG Loaded hosting startup assembly IStore.Web
+2023-04-01 17:17:09,131 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-04-01 17:17:09,199 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-04-01 17:17:09,277 INFO Application started. Press Ctrl+C to shut down.
+2023-04-01 17:17:09,442 INFO Hosting environment: Development
+2023-04-01 17:17:09,446 DEBUG Connection id "0HMPINF3RR96D" received FIN.
+2023-04-01 17:17:09,539 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-01 17:17:09,680 DEBUG Connection id "0HMPINF3RR96D" accepted.
+2023-04-01 17:17:09,730 DEBUG Hosting started
+2023-04-01 17:17:09,803 DEBUG Connection id "0HMPINF3RR96D" started.
+2023-04-01 17:17:12,078 DEBUG Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-04-01 17:17:12,178 DEBUG Connection id "0HMPINF3RR96D" stopped.
+2023-04-01 17:17:12,230 DEBUG Connection id "0HMPINF3RR96D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-04-01 17:17:54,954 DEBUG Connection id "0HMPINF3RR96E" accepted.
+2023-04-01 17:17:55,244 DEBUG Connection id "0HMPINF3RR96E" started.
+2023-04-01 17:17:55,249 DEBUG Connection id "0HMPINF3RR96F" accepted.
+2023-04-01 17:17:56,378 DEBUG Connection id "0HMPINF3RR96F" started.
+2023-04-01 17:17:58,192 DEBUG Connection 0HMPINF3RR96F established using the following protocol: Tls12
+2023-04-01 17:17:58,210 DEBUG Connection 0HMPINF3RR96E established using the following protocol: Tls12
+2023-04-01 17:17:58,770 DEBUG Connection id "0HMPINF3RR96F" received FIN.
+2023-04-01 17:17:59,276 DEBUG Connection id "0HMPINF3RR96F" is closed. The last processed stream ID was 0.
+2023-04-01 17:17:59,983 DEBUG Connection id "0HMPINF3RR96F" sending FIN because: "The client closed the connection."
+2023-04-01 17:18:00,696 DEBUG Connection id "0HMPINF3RR96F" stopped.
+2023-04-01 17:18:01,072 INFO Request starting HTTP/2 GET https://localhost:51553/ - -
+2023-04-01 17:18:01,562 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2023-04-01 17:18:02,241 DEBUG The request path / does not match a supported file type
+2023-04-01 17:18:02,643 DEBUG No candidates found for the request path '/'
+2023-04-01 17:18:02,817 DEBUG Request did not match any endpoints
+2023-04-01 17:18:03,145 DEBUG AuthenticationScheme: Cookies was not authenticated.
+2023-04-01 17:18:03,950 INFO Request finished HTTP/2 GET https://localhost:51553/ - - - 404 0 - 2802.4638ms
+2023-04-01 17:18:04,166 DEBUG Connection id "0HMPINF3RR96E" received FIN.
+2023-04-01 17:18:04,314 DEBUG Connection id "0HMPINF3RR96E" is closed. The last processed stream ID was 1.
+2023-04-01 17:18:04,406 DEBUG Connection id "0HMPINF3RR96E" sending FIN because: "The client closed the connection."
+2023-04-01 17:18:04,523 DEBUG Connection id "0HMPINF3RR96E" stopped.
+2023-04-01 17:25:47,009 DEBUG Hosting starting
+2023-04-01 17:25:49,184 INFO User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-04-01 17:25:49,313 DEBUG Reading data from file 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys\key-76f192d3-8929-4404-8ead-44a720b2156e.xml'.
+2023-04-01 17:25:49,433 DEBUG Found key {76f192d3-8929-4404-8ead-44a720b2156e}.
+2023-04-01 17:25:49,517 DEBUG Considering key {76f192d3-8929-4404-8ead-44a720b2156e} with expiration date 2023-06-30 14:16:58Z as default key.
+2023-04-01 17:25:49,549 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-04-01 17:25:49,811 DEBUG Decrypting secret element using Windows DPAPI.
+2023-04-01 17:25:49,994 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-04-01 17:25:50,080 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2023-04-01 17:25:50,140 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2023-04-01 17:25:50,225 DEBUG Using key {76f192d3-8929-4404-8ead-44a720b2156e} as the default key.
+2023-04-01 17:25:50,264 DEBUG Key ring with default key {76f192d3-8929-4404-8ead-44a720b2156e} was loaded during application startup.
+2023-04-01 17:25:51,293 DEBUG Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'.
+2023-04-01 17:25:51,322 DEBUG Initializing Razor view compiler with compiled view: '/Views/Account/Registration.cshtml'.
+2023-04-01 17:25:51,364 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/CatalogManagement.cshtml'.
+2023-04-01 17:25:51,454 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/CheckIn.cshtml'.
+2023-04-01 17:25:51,517 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/Index.cshtml'.
+2023-04-01 17:25:51,562 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/OrderManagement.cshtml'.
+2023-04-01 17:25:51,606 DEBUG Initializing Razor view compiler with compiled view: '/Views/Cart/Index.cshtml'.
+2023-04-01 17:25:51,647 DEBUG Initializing Razor view compiler with compiled view: '/Views/Catalog/childView.cshtml'.
+2023-04-01 17:25:51,690 DEBUG Initializing Razor view compiler with compiled view: '/Views/Catalog/Index.cshtml'.
+2023-04-01 17:25:51,741 DEBUG Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2023-04-01 17:25:51,789 DEBUG Initializing Razor view compiler with compiled view: '/Views/Product/About.cshtml'.
+2023-04-01 17:25:51,812 DEBUG Initializing Razor view compiler with compiled view: '/Views/Product/Details.cshtml'.
+2023-04-01 17:25:51,855 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2023-04-01 17:25:51,878 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2023-04-01 17:25:51,949 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2023-04-01 17:25:52,068 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2023-04-01 17:25:52,624 DEBUG Loaded hosting startup assembly IStore.Web
+2023-04-01 17:25:52,682 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-04-01 17:25:52,758 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-04-01 17:25:52,817 INFO Application started. Press Ctrl+C to shut down.
+2023-04-01 17:25:52,863 INFO Hosting environment: Development
+2023-04-01 17:25:52,913 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-01 17:25:52,978 DEBUG Hosting started
+2023-04-01 17:25:53,081 INFO Request starting HTTP/2 GET https://localhost:44345/ - -
+2023-04-01 17:25:53,232 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2023-04-01 17:25:53,286 DEBUG The request path / does not match a supported file type
+2023-04-01 17:25:53,332 DEBUG No candidates found for the request path '/'
+2023-04-01 17:25:53,361 DEBUG Request did not match any endpoints
+2023-04-01 17:25:53,452 DEBUG AuthenticationScheme: Cookies was not authenticated.
+2023-04-01 17:25:53,789 DEBUG Connection ID "18374686481282236436" disconnecting.
+2023-04-01 17:25:53,812 INFO Request finished HTTP/2 GET https://localhost:44345/ - - - 404 - - 741.5736ms
+2023-04-01 17:36:36,468 DEBUG Hosting starting
+2023-04-01 17:36:40,463 INFO User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-04-01 17:36:40,908 DEBUG Reading data from file 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys\key-76f192d3-8929-4404-8ead-44a720b2156e.xml'.
+2023-04-01 17:36:42,217 DEBUG Found key {76f192d3-8929-4404-8ead-44a720b2156e}.
+2023-04-01 17:36:42,904 DEBUG Considering key {76f192d3-8929-4404-8ead-44a720b2156e} with expiration date 2023-06-30 14:16:58Z as default key.
+2023-04-01 17:36:42,978 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-04-01 17:36:43,323 DEBUG Decrypting secret element using Windows DPAPI.
+2023-04-01 17:36:43,504 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-04-01 17:36:43,622 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2023-04-01 17:36:43,712 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2023-04-01 17:36:43,807 DEBUG Using key {76f192d3-8929-4404-8ead-44a720b2156e} as the default key.
+2023-04-01 17:36:43,863 DEBUG Key ring with default key {76f192d3-8929-4404-8ead-44a720b2156e} was loaded during application startup.
+2023-04-01 17:36:44,953 DEBUG Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'.
+2023-04-01 17:36:45,145 DEBUG Initializing Razor view compiler with compiled view: '/Views/Account/Registration.cshtml'.
+2023-04-01 17:36:45,219 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/CatalogManagement.cshtml'.
+2023-04-01 17:36:45,370 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/CheckIn.cshtml'.
+2023-04-01 17:36:45,446 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/Index.cshtml'.
+2023-04-01 17:36:45,551 DEBUG Initializing Razor view compiler with compiled view: '/Views/Administration/OrderManagement.cshtml'.
+2023-04-01 17:36:45,588 DEBUG Initializing Razor view compiler with compiled view: '/Views/Cart/Index.cshtml'.
+2023-04-01 17:36:45,618 DEBUG Initializing Razor view compiler with compiled view: '/Views/Catalog/childView.cshtml'.
+2023-04-01 17:36:45,670 DEBUG Initializing Razor view compiler with compiled view: '/Views/Catalog/Index.cshtml'.
+2023-04-01 17:36:45,728 DEBUG Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2023-04-01 17:36:45,795 DEBUG Initializing Razor view compiler with compiled view: '/Views/Product/About.cshtml'.
+2023-04-01 17:36:45,882 DEBUG Initializing Razor view compiler with compiled view: '/Views/Product/Details.cshtml'.
+2023-04-01 17:36:46,053 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2023-04-01 17:36:46,184 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2023-04-01 17:36:46,268 DEBUG Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2023-04-01 17:36:46,807 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2023-04-01 17:36:47,331 DEBUG Loaded hosting startup assembly IStore.Web
+2023-04-01 17:36:47,480 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-04-01 17:36:47,554 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-04-01 17:36:47,655 INFO Application started. Press Ctrl+C to shut down.
+2023-04-01 17:36:47,711 INFO Hosting environment: Development
+2023-04-01 17:36:47,775 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-01 17:36:47,835 DEBUG Hosting started
+2023-04-01 17:36:47,995 INFO Request starting HTTP/2 GET https://localhost:44345/ - -
+2023-04-01 17:36:48,273 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2023-04-01 17:36:48,349 DEBUG The request path / does not match a supported file type
+2023-04-01 17:36:48,505 DEBUG No candidates found for the request path '/'
+2023-04-01 17:36:48,566 DEBUG Request did not match any endpoints
+2023-04-01 17:36:48,826 DEBUG AuthenticationScheme: Cookies was not authenticated.
+2023-04-01 17:36:49,351 DEBUG Connection ID "17942340921349636097" disconnecting.
+2023-04-01 17:36:49,437 INFO Request finished HTTP/2 GET https://localhost:44345/ - - - 404 - - 1428.9000ms
+2023-04-01 17:40:11,902 INFO Application started. Press Ctrl+C to shut down.
+2023-04-01 17:40:18,520 INFO Hosting environment: Development
+2023-04-01 17:40:18,581 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-01 17:42:22,229 INFO Application started. Press Ctrl+C to shut down.
+2023-04-01 17:42:24,489 INFO Hosting environment: Development
+2023-04-01 17:42:24,597 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-01 17:53:47,359 INFO Application started. Press Ctrl+C to shut down.
+2023-04-01 17:53:57,909 INFO Hosting environment: Development
+2023-04-01 17:53:58,022 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 09:34:43,809 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 09:35:09,720 INFO Hosting environment: Development
+2023-04-12 09:35:10,052 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 09:49:50,453 INFO Now listening on: https://localhost:5001
+2023-04-12 09:49:58,636 INFO Now listening on: http://localhost:5000
+2023-04-12 09:49:58,892 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 09:49:59,172 INFO Hosting environment: Development
+2023-04-12 09:49:59,330 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 11:39:45,728 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 11:40:14,957 INFO Hosting environment: Development
+2023-04-12 11:40:16,787 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-12 11:59:42,640 INFO Application started. Press Ctrl+C to shut down.
+2023-04-12 12:00:04,225 INFO Hosting environment: Development
+2023-04-12 12:00:05,239 INFO Content root path: C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore.Domain\IStore.Web
+2023-04-25 10:36:56,725 INFO Now listening on: https://localhost:5001
+2023-04-25 12:25:31,427 INFO Now listening on: https://localhost:5001
