@@ -42,12 +42,8 @@ C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\MySql.Data.dll
-C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\Ubiety.Dns.Core.dll
-C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\Zstandard.Net.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\Newtonsoft.Json.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\NuGet.Frameworks.dll
-C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\Renci.SshNet.dll
-C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\SshNet.Security.Cryptography.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Composition.AttributedModel.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Composition.Convention.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Composition.Hosting.dll
@@ -58,7 +54,6 @@ C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Security.Permissions.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Windows.Extensions.dll
-C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -138,3 +133,12 @@ C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\obj\Debug\netcoreapp6.0\IStore.Web.pdb
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\obj\Debug\netcoreapp6.0\IStore.Web.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\obj\Debug\netcoreapp6.0\ref\IStore.Web.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\System.Text.Json.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Диплом\project\IStore\implementation\IStore\IStore.Web\bin\Debug\netcoreapp6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
