@@ -18,11 +18,11 @@
         $('#isRootCheckbox').click(function () {
             if ($(this).is(':checked')) {
                 $('#parentCategory').hide();
-                $('#submitAddButton').text("Add root category");
+                $('#submitAddButton').text("Добавить главную категорию");
             }
             else {
                 $('#parentCategory').show();
-                $('#submitAddButton').text("Add category");
+                $('#submitAddButton').text("Добавить категорию");
             }
         })
     </script>
@@ -33,7 +33,7 @@
         <form method="post" class="form-inline form-control-sm" asp-controller="Administration" asp-action="AddCategory">
 
             <!--Title-->
-            <input type="text" class="form-control-sm mr-sm-2" placeholder="Title" name="title">
+            <input type="text" class="form-control-sm mr-sm-2" placeholder="Наименование" name="title">
 
             <!--Parent-->
             <div class="input-group-sm mr-sm-2" id="parentCategory">
@@ -48,7 +48,7 @@
             <!--Is Root-->
             <div class="form-check mr-sm-2">
                 <input class="form-check-input" type="checkbox" id="isRootCheckbox" name="isRootCategory">
-                <label class="form-check-label" for="isRootCheckbox">root</label>
+                <label class="form-check-label" for="isRootCheckbox">Добавить главную категорию</label>
             </div>
 
             <!--Button-->
@@ -61,9 +61,9 @@
             <thead>
                 <tr>
 
-                    <th scope="col">Type</th>
-                    <th scope="col">Category</th>
-                    <th scope="col">Subcategory</th>
+                    <th scope="col">Тип</th>
+                    <th scope="col">Категория</th>
+                    <th scope="col">Подкатегория</th>
                     <th scope="col"></th> <!--Delete-->
                     <th scope="col"></th> <!--Confirm/Cancel deletion-->
                 </tr>
@@ -73,19 +73,19 @@
                 @foreach (var root in Model.RootCategories)
                 {
                     <tr class="table-active">
-                        <th scope="row">[root]</th>
+                        <th scope="row">[главная]</th>
                         <td>@root.Category.Title</td>
                         <td></td>
                         <td>
                             <a id="deleteCategory_@root.Category.Id" class="btn btn-sm btn-outline-danger" data-toggle="modal" data-target="#deleteConfirmationModal"
-                               data-category-id="@root.Category.Id" onclick="confirmDelete(@root.Category.Id, false)">Delete group</a>
+                               data-category-id="@root.Category.Id" onclick="confirmDelete(@root.Category.Id, false)">Удалить категорию</a>
                         </td>
                         <td>
                             <form id="confirmDeleteCategory_@root.Category.Id" method="post" asp-controller="Administration" asp-action="DeleteCategory" asp-route-categoryId="@root.Category.Id"
                                   style="visibility:hidden">
                                 <div class="btn-group-sm" role="group" aria-label="Basic example">
                                     <button type="submit" class="btn btn-danger" onclick="confirmDelete(@root.Category.Id, true)"><i class="fa fa-trash" aria-hidden="true"></i></button>
-                                    <button type="reset" class="btn btn-secondary" onclick="confirmDelete(@root.Category.Id, true)">Cancel</button>
+                                    <button type="reset" class="btn btn-secondary" onclick="confirmDelete(@root.Category.Id, true)">Отмена</button>
                                 </div>
                             </form>
                         </td>
@@ -94,19 +94,19 @@
                     foreach (var child in root.SubCategories)
                     {
                         <tr>
-                            <th scope="row">[sub]</th>
+                            <th scope="row">[доп]</th>
                             <td></td>
                             <td>@child.Title</td>
                             <td>
                                 <a id="deleteCategory_@child.Id" class="btn btn-sm btn-outline-danger" data-toggle="modal" data-target="#deleteConfirmationModal"
-                                   data-category-id="@child.Id" onclick="confirmDelete(@child.Id, false)">Delete</a>
+                                   data-category-id="@child.Id" onclick="confirmDelete(@child.Id, false)">Удалить</a>
                             </td>
                             <td>
                                 <form id="confirmDeleteCategory_@child.Id" method="post" asp-controller="Administration" asp-action="DeleteCategory" asp-route-categoryId="@child.Id"
                                       style="visibility:hidden">
                                     <div class="btn-group-sm" role="group" aria-label="Basic example">
                                         <button type="submit" class="btn btn-danger" onclick="confirmDelete(@child.Id, true)"><i class="fa fa-trash" aria-hidden="true"></i></button>
-                                        <button type="reset" class="btn btn-secondary" onclick="confirmDelete(@child.Id, true)">Cancel</button>
+                                        <button type="reset" class="btn btn-secondary" onclick="confirmDelete(@child.Id, true)">Отмена</button>
                                     </div>
                                 </form>
                             </td>

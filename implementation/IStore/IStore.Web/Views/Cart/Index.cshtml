@@ -41,7 +41,7 @@
                                         <th>@product.Price</th>
                                         <th>@count</th>
                                         <th>@sum</th>
-                                        <th><a asp-action="DeleteItem" asp-route-id="@index"><img src="~/images/cart/cross.png" style="width:50px;"></a></th>
+                                        <th><a asp-action="DeleteItem" asp-route-id="@index"><img src="~/images/cart/del.png" style="width:50px;"></a></th>
                                     </tr>
                                 }
                             }
@@ -88,19 +88,19 @@
                 <h4>Способ оплаты:</h4>
             </div>
             <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                <label class="btn btn-secondary active">
-                    <input type="radio" name="paymentType" id="card" autocomplete="off" checked> <img src="~/images/cart/cards.png" style="width: 100px;">
+                <label class="btn btn">
+                    <input type="radio" name="paymentType" id="card" autocomplete="off" checked> <img src="~/images/cart/cards.jpg" style="width: 100px;">
                 </label>
-                <label class="btn btn-secondary">
-                    <input type="radio" name="paymentType" id="qiwi" autocomplete="off"> <img src="~/images/cart/qiwi.png" style="width: 100px;">
+                <label class="btn btn">
+                    <input type="radio" name="paymentType" id="qiwi" autocomplete="off"> <img src="~/images/cart/qiwi.jpg" style="width: 100px;">
                 </label>
-                <label class="btn btn-secondary">
-                    <input type="radio" name="paymentType" id="yandex" autocomplete="off"> <img src="~/images/cart/yandex.png" style="width: 100px;">
+                <label class="btn btn">
+                    <input type="radio" name="paymentType" id="yandex" autocomplete="off"> <img src="~/images/cart/yandex.jpg" style="width: 100px;">
                 </label>
             </div>
             <br>
             <div>
-                <b>Итого:</b> <span id="total-cart-summa">@Math.Round(allSum, 3)</span> €
+                <b>Итого:</b> <span id="total-cart-summa">@Math.Round(allSum, 3)</span> р
             </div>
             <button type="submit" class="btn btn-primary">Оформить заказ</button>
         </form>

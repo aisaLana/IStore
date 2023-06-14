@@ -4,35 +4,35 @@
 }
 
 <div class="col-md-6 offset-md-3 border rounded bg-light">
-  <h2 class="form-text text-center">Welcome to IStore</h2>
+  <h2 class="form-text text-center">Регистрация</h2>
   <form asp-action="Register">
     <div class="form-group">
-      <label for="credentialsInput">Full Name *</label>
+            <label for="credentialsInput">ФИО *</label>
       <input id="credentialsInput" class="form-control" asp-for="Credentials" required>
     </div>
     <div class="form-group">
-      <label for="emailInput">Email address *</label>
+      <label for="emailInput">Email *</label>
       <input id="emailInput" class="form-control" asp-for="Email" required>
     </div>
     <div class="form-row">
       <div class="form-group col-md-6">
-        <label for="inputPassword">Password *</label>
+                <label for="inputPassword">Пароль *</label>
         <input id="inputPassword" class="form-control" asp-for="Password" required>
       </div>
       <div class="form-group col-md-6">
-        <label for="inputPassword">Confirm Password *</label>
+                <label for="inputPassword">Подтвердите пароль *</label>
         <input for="inputPasswordConfirm" class="form-control" asp-for="PasswordConfirmation" required>
       </div>
     </div>
     <div class="form-group">
-      <label for="aboutInput">About</label>
+            <label for="aboutInput">Описание</label>
       <textarea id="aboutInput" class="form-control" asp-for="About" aria-describedby="aboutInputHelp"></textarea>
       <small id="aboutInputHelp" class="form-text text-muted">
-        Write a short bio if you wish
+       Здесь вы можете написать кратко о себе.
       </small>
     </div>
     <div class="form-group">
-      <button type="submit" class="btn btn-primary">Create account</button>
+            <button type="submit" class="btn btn-primary">Создать учетную запись</button>
     </div>
   </form>
 </div>

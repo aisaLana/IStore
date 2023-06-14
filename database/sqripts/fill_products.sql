@@ -10,7 +10,7 @@ VALUES
   'Premium Selection 100% Turkey 
   BARF alternative diet monoprotein without cereals',
   7.2,
-  'images/catalogue/KARMA PREMIUM SELECTION 100% TURKEY 850G.png',
+  'images/catalogue/KARMA PREMIUM SELECTION 100% TURKEY 850G.jpg',
     7
 ),
 
@@ -379,7 +379,7 @@ VALUES
     'BUTCHERS DOG BIO FOODS CHICKEN DRY 800G',
     'Complete food for everyday nutrition of adult dogs, prepared from ecological ingredients, responsibly bred in a natural environment, free from antibiotics and herbicides, which guarantees its highest quality. The entire line is distinguished by raw materials from only regional farms that have a certificate of organic production, and thus are subject to very strict rules, including minimizing the negative impact on the natural...',
      8.75,
-     'images/catalogue/BUTCHERS DOG BIO FOODS CHICKEN DRY 800G.png',
+     'images/catalogue/BUTCHERS DOG BIO FOODS CHICKEN DRY 800G.jpg',
      7
 ),
 
@@ -424,7 +424,7 @@ VALUES
     'APPLAWS DOG 400GR',
     'We’ve reformulated our 400g tins so that they are grain free! Our highly palatable and easy to digest recipes provide a natural source of essential protein, vitamins and minerals to support health and wellbeing.',
      2.10,
-     'images/catalogue/APPLAWS DOG 400GR.png',
+     'images/catalogue/APPLAWS DOG 400GR.jpg',
      7
 ),
 
@@ -610,7 +610,7 @@ VALUES
     'GOURMET REVELATIONS MOUSSE',
     'GOURMET REVELATIONS BEEF MOUSSE 4 BAKeS OF 57 GRAMS',
      3.20,
-     'images/catalogue/GOURMET REVELATIONS MOUSSE.png',
+     'images/catalogue/GOURMET REVELATIONS MOUSSE.jpg',
      8
 ),
 
@@ -736,7 +736,7 @@ VALUES
     'GIMCAT PATE DELUXE WVEAL 3X21G',
     'GIMCAT PATE DELUXE WPOULTRY 3X21G',
      1.90,
-     'images/catalogue/GIMCAT PATE DELUXE WVEAL 3X21G.png',
+     'images/catalogue/GIMCAT PATE DELUXE WVEAL 3X21G.jpg',
      8
 ),
 
@@ -747,7 +747,7 @@ VALUES
 
 broth. With taurine. Without colourants and preservatives. Without added sugar.',
      0.90,
-     'images/catalogue/GIMCAT SUPER FOOD CHICKEN AND CARROTS 70G.png',
+     'images/catalogue/GIMCAT SUPER FOOD CHICKEN AND CARROTS 70G.jpg',
      8
 ),
 
@@ -758,7 +758,7 @@ broth. With taurine. Without colourants and preservatives. Without added sugar.'
 
 broth. With vitamin C. Without dyes or preservatives. Without added sugar',
      0.90,
-     'images/catalogue/GIMCAT SUPER FOOD CHICKEN AND APPLES 70G.png',
+     'images/catalogue/GIMCAT SUPER FOOD CHICKEN AND APPLES 70G.jpg',
      8
 ),
 
@@ -768,7 +768,7 @@ broth. With vitamin C. Without dyes or preservatives. Without added sugar',
     'Tender, protein-rich fillets enriched with chunks of tomato, slowly cooked in
 broth. With vitamin E. Without dyes or preservatives. Without added sugar.',
      0.90,
-     'images/catalogue/GIMCAT SUPER FOOD TONNO AND TOMATOES 70G.png',
+     'images/catalogue/GIMCAT SUPER FOOD TONNO AND TOMATOES 70G.jpg',
      8
 ),
 
@@ -778,7 +778,7 @@ broth. With vitamin E. Without dyes or preservatives. Without added sugar.',
     'Tender, protein-rich fillets enriched with pieces of zucchini, gently cooked in
 broth. With biotin and zinc. Without colourants and preservatives. Without added sugar.',
      0.90,
-     'images/catalogue/GIMCAT SUPER FOOD TONNO AND ZUCCHINI 70G.png',
+     'images/catalogue/GIMCAT SUPER FOOD TONNO AND ZUCCHINI 70G.jpg',
      8
 ),
 
@@ -787,7 +787,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'BUTCHERS BIO FOODS CHICKEN 800G',
     'Complete dry pet food for adult cats made from organic ingredients, responsibly grown in a natural environment, free from antibiotics or herbicides, which guarantees the their highest quality. The whole...',
      9.70,
-     'images/catalogue/BUTCHERS BIO FOODS CHICKEN 800G.png',
+     'images/catalogue/BUTCHERS BIO FOODS CHICKEN 800G.jpg',
      8
 ),
 
@@ -796,7 +796,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'BUTCHERS BIO FOODS CHICKEN 85G',
     'Complete dry pet food for adult cats made from organic ingredients, responsibly grown in a natural environment, free from antibiotics or herbicides, which guarantees the their highest quality. The whole...',
      0.88,
-     'images/catalogue/BUTCHERS BIO FOODS CHICKEN 85G.png',
+     'images/catalogue/BUTCHERS BIO FOODS CHICKEN 85G.jpg',
      8
 ),
 
@@ -805,7 +805,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'BUTCHERS BIO FOODS BEEF 85G',
     'Complete dry pet food for adult cats made from organic ingredients, responsibly grown in a natural environment, free from antibiotics or herbicides, which guarantees the their highest quality. The whole...',
      0.88,
-     'images/catalogue/BUTCHERS BIO FOODS BEEF 85G.png',
+     'images/catalogue/BUTCHERS BIO FOODS BEEF 85G.jpg',
      8
 ),
 
@@ -814,7 +814,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'BUTCHERS BIO FOODS FISH 85G',
     'Complete dry pet food for adult cats made from organic ingredients, responsibly grown in a natural environment, free from antibiotics or herbicides, which guarantees the their highest quality. The whole...',
      0.88,
-     'images/catalogue/BUTCHERS BIO FOODS FISH 85G.png',
+     'images/catalogue/BUTCHERS BIO FOODS FISH 85G.jpg',
      8
 ),
 
@@ -823,7 +823,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'CHURU CHICKEN STEW 811',
     'Carefully selected ingredients and rigorously controlled freshness. Your cat will enjoy enticing aroma and irresistible taste each time you open the package!',
      0.90,
-     'images/catalogue/CHURU CHICKEN STEW 811.png',
+     'images/catalogue/CHURU CHICKEN STEW 811.jpg',
      8
 ),
 
@@ -877,7 +877,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'GOURMET MON PETIT 6 X 50G',
     'Passionately crafted by GOURMET®, GOURMET® Mon Petit is presented in a 50g pouch allowing every one of your cats meals to be freshly served to eat all at once.',
      2.90,
-     'images/catalogue/GOURMET MON PETIT 6 X 50G.png',
+     'images/catalogue/GOURMET MON PETIT 6 X 50G.jpg',
      8
 ),
 
@@ -913,7 +913,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'TOMI POUCHES 100G',
     'N/A',
      0.52,
-     'images/catalogue/TOMI POUCHES 100G.png',
+     'images/catalogue/TOMI POUCHES 100G.jpg',
      8
 ),
 
@@ -985,7 +985,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'SHEBA POUCHES ASSORTED 85G',
     'High quality adult cat food providing complete nutrition for your feline companion',
      0.50,
-     'images/catalogue/SHEBA POUCHES ASSORTED 85G.png',
+     'images/catalogue/SHEBA POUCHES ASSORTED 85G.jpg',
      8
 ),
 
@@ -1003,7 +1003,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'PANZI REGULAR CAT BEEF 800G',
     'Delicious beef bites in delicious sauce.',
      1.38,
-     'images/catalogue/PANZI REGULAR CAT BEEF 800G.png',
+     'images/catalogue/PANZI REGULAR CAT BEEF 800G.jpg',
      8
 ),
 
@@ -1012,7 +1012,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     'PANZI REGULAR CAT POULTRY 800G',
     'Delicious beef bites in delicious sauce.',
      1.38,
-     'images/catalogue/PANZI REGULAR CAT POULTRY 800G.png',
+     'images/catalogue/PANZI REGULAR CAT POULTRY 800G.jpg',
      8
 ),
 
@@ -1075,7 +1075,7 @@ broth. With biotin and zinc. Without colourants and preservatives. Without added
     '46372 AQUA-KI MIX 3 COLOURS 5L FREE 0.5L',
     'N/A',
      7.30,
-     'images/catalogue/46372 AQUA-KI MIX 3 COLOURS 5L FREE 0.5L.png',
+     'images/catalogue/46372 AQUA-KI MIX 3 COLOURS 5L FREE 0.5L.jpg',
      9
 ),
 
@@ -1205,7 +1205,7 @@ digestion, as the grit helps to break down grains and seeds, making it absolutel
     'CEDE LARGE PARAKEET AND PARROT 1KG',
     'Cede eggfood large parrot and parakeet is a supplementary food for all kinds of parakeets (Australian, South American, Asian, African) and parrots (macaws, cockatoos, amazons, ...',
      5.65,
-     'images/catalogue/CEDE LARGE PARAKEET AND PARROT 1KG.png',
+     'images/catalogue/CEDE LARGE PARAKEET AND PARROT 1KG.jpg',
      10
 ),
 
@@ -1214,7 +1214,7 @@ digestion, as the grit helps to break down grains and seeds, making it absolutel
     'CEDE LORIKEET 1KG',
     'Cede Lory Food is a complete food for all kinds of lorikeets, hanging parrots and fig.',
      10.10,
-     'images/catalogue/CEDE LORIKEET 1KG.png',
+     'images/catalogue/CEDE LORIKEET 1KG.jpg',
      10
 ),
 

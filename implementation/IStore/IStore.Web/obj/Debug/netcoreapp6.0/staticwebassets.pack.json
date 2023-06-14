@@ -45,88 +45,992 @@
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\cards.png",
-      "PackagePath": "staticwebassets\\images\\cart\\cards.png"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\cards.jpg",
+      "PackagePath": "staticwebassets\\images\\cart\\cards.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\cross.png",
-      "PackagePath": "staticwebassets\\images\\cart\\cross.png"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\del.png",
+      "PackagePath": "staticwebassets\\images\\cart\\del.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\qiwi.png",
-      "PackagePath": "staticwebassets\\images\\cart\\qiwi.png"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\qiwi.jpg",
+      "PackagePath": "staticwebassets\\images\\cart\\qiwi.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\yandex.png",
-      "PackagePath": "staticwebassets\\images\\cart\\yandex.png"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\cart\\yandex.jpg",
+      "PackagePath": "staticwebassets\\images\\cart\\yandex.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\band.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\band.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\chemicalguys.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\chemicalguys.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\essence.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\essence.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\gopro.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\gopro.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\instax.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\instax.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46112 AQUA-KI 5L FREE 0.5L.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46112 AQUA-KI 5L FREE 0.5L.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\lavishlash.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\lavishlash.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46113 AQUA-KI RED 9L FREE 1L.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46113 AQUA-KI RED 9L FREE 1L.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\lumia.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\lumia.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46153 AQUA-KI PURPLE COMBI 10L FREE 10%.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46153 AQUA-KI PURPLE COMBI 10L FREE 10%.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\monitor.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\monitor.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46361 DRIED MEALWORMS 5KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46361 DRIED MEALWORMS 5KG.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\nyx.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\nyx.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46372 AQUA-KI MIX 3 COLOURS 5L FREE 0.5L.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46372 AQUA-KI MIX 3 COLOURS 5L FREE 0.5L.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\occer.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\occer.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46501 FLOATING STICKS 1.2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46501 FLOATING STICKS 1.2KG.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\posture.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\posture.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\46517 FLOATING STICKS MIX 5KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\46517 FLOATING STICKS MIX 5KG.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\sandisk.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\sandisk.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\shinearmor.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\shinearmor.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\A bed for rodents, 30x22 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\A bed for rodents, 30x22 cm.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\sony.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\sony.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\A branch for a natural wooden cage, 30 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\A branch for a natural wooden cage, 30 cm.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\turtlewax.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\turtlewax.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\A cage for rabbits with a queen cell made of wood.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\A cage for rabbits with a queen cell made of wood.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\viking.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\viking.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ALMO DAILY MENU 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ALMO DAILY MENU 85G.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\vont.jpg",
-      "PackagePath": "staticwebassets\\images\\catalogue\\vont.jpg"
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\APPLAWS CAT DRY 2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\APPLAWS CAT DRY 2KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\APPLAWS DOG 400GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\APPLAWS DOG 400GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\AQUA-KI GREEN 9+1LTR FREE.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\AQUA-KI GREEN 9+1LTR FREE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS BIO FOODS BEEF 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS BIO FOODS BEEF 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS BIO FOODS CHICKEN 800G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS BIO FOODS CHICKEN 800G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS BIO FOODS CHICKEN 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS BIO FOODS CHICKEN 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS BIO FOODS FISH 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS BIO FOODS FISH 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS BEEF 100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS BEEF 100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS CAT OCEAN FISH 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS CAT OCEAN FISH 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS CHICKEN 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS CHICKEN 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS GAME 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS GAME 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS SALMON 100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DELICIOUS DINNERS SALMON 100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DOG BIO FOODS BEEF AND VEAL 150G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DOG BIO FOODS BEEF AND VEAL 150G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DOG BIO FOODS CHICKEN DRY 800G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DOG BIO FOODS CHICKEN DRY 800G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DOG BIO FOODS CHICKEN FOIL 150G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DOG BIO FOODS CHICKEN FOIL 150G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS DOG BIO FOODS TURKEY 150G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS DOG BIO FOODS TURKEY 150G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS PRO INDOOR CHICKEN PATE 100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS PRO INDOOR CHICKEN PATE 100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS PRO SKIN & COAT BEEF PATE 100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS PRO SKIN & COAT BEEF PATE 100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\BUTCHERS PRO SKIN & COAT CHICKEN PATE 100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\BUTCHERS PRO SKIN & COAT CHICKEN PATE 100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird Toy Asterisk with rattles.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird Toy Asterisk with rattles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird Toy Ring D 190x250mm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird Toy Ring D 190x250mm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird cage 46,2x46,2x69,5cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird cage 46,2x46,2x69,5cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird cage 61,2x45,2x82cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird cage 61,2x45,2x82cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird cage, dark green, 46.8 x 35.5 x 62.5 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird cage, dark green, 46.8 x 35.5 x 62.5 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird cage, enamel, 1020 790 1760mm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird cage, enamel, 1020 790 1760mm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bird toy Pyramid with rings size S 8.5x6x1 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bird toy Pyramid with rings size S 8.5x6x1 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Boomerang Dog Toy 29 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Boomerang Dog Toy 29 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bowl 14.5 x 4.7 cm, 0.3 l, blue.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bowl 14.5 x 4.7 cm, 0.3 l, blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bowl 2 x 200 ml, grey.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bowl 2 x 200 ml, grey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Bowl 2 x 200 ml, red.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Bowl 2 x 200 ml, red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CAT CLUB 6 PACK 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CAT CLUB 6 PACK 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CEDE ALLROUND 240GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CEDE ALLROUND 240GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CEDE LARGE PARAKEET AND PARROT 1KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CEDE LARGE PARAKEET AND PARROT 1KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CEDE LORIKEET 1KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CEDE LORIKEET 1KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CHURU CHICKEN STEW 811.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CHURU CHICKEN STEW 811.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CHURU CHICKEN STEW 812 CHICKEN and TUNA.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CHURU CHICKEN STEW 812 CHICKEN and TUNA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CHURU CHICKEN STEW 813 SALMON.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CHURU CHICKEN STEW 813 SALMON.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CHURU TWIN PACK 802 CHICKEN BROTH.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CHURU TWIN PACK 802 CHICKEN BROTH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\CHURU TWIN PACK 803 TUNA AND CHICKEN WITH SCALLOP.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\CHURU TWIN PACK 803 TUNA AND CHICKEN WITH SCALLOP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Cage for small birds 35x28x47 cm white.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Cage for small birds 35x28x47 cm white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Cage for small rodents 58x32x41 cm gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Cage for small rodents 58x32x41 cm gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Carrying ATLAS 5 TRASPORTINO.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Carrying ATLAS 5 TRASPORTINO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Casita 100 96 57 56 see.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Casita 100 96 57 56 see.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Cat Toy Interactive Mouse 9 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Cat Toy Interactive Mouse 9 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Cat Toy Pointer-LED with USB Charging.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Cat Toy Pointer-LED with USB Charging.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Cat Toy Teaser Mouse 7 cm long-tailed rainbow, 48 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Cat Toy Teaser Mouse 7 cm long-tailed rainbow, 48 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Ceramic Bowl 211154 for cats 140 ml white.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Ceramic Bowl 211154 for cats 140 ml white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Ceramic black dog bowl with paws, 420 ml.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Ceramic black dog bowl with paws, 420 ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Ceramic bowl for dogs with 350ml pattern, grey.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Ceramic bowl for dogs with 350ml pattern, grey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Chenille Sweater for dogs 2XL Grey.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Chenille Sweater for dogs 2XL Grey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\DUVO LINSEED EXTRA 20KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\DUVO LINSEED EXTRA 20KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\DUVO STONE DECO OSCURO BOWL 13CM 400ML.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\DUVO STONE DECO OSCURO BOWL 13CM 400ML.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\DUVO+ FEEDING BOWL GLOSSY ANTI-ANT XL.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\DUVO+ FEEDING BOWL GLOSSY ANTI-ANT XL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\DUVO+ FEEDING BOWL STONE HUSH 250ML.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\DUVO+ FEEDING BOWL STONE HUSH 250ML.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\DUVO+ OYSTER SHELLS FINE 25KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\DUVO+ OYSTER SHELLS FINE 25KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Deckbed Graphite blue 90x80x20 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Deckbed Graphite blue 90x80x20 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Dog Toy Ball Moon, 6cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Dog Toy Ball Moon, 6cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Dog Toy Frisbee Disc 18.5 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Dog Toy Frisbee Disc 18.5 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Dog Toy Plush Piggy Squeaking 14 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Dog Toy Plush Piggy Squeaking 14 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Dog Toy Rope 40 cm, gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Dog Toy Rope 40 cm, gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Dog blanket warm with harness green 2XL.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Dog blanket warm with harness green 2XL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Dog bowl double 100 ml and 220 ml white with paws.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Dog bowl double 100 ml and 220 ml white with paws.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Double bowl ceramic, metal, 2 pieces of 0.29 l.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Double bowl ceramic, metal, 2 pieces of 0.29 l.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Drinking bowl for animals Cats ear double.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Drinking bowl for animals Cats ear double.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Elan Gallery Bowl life is NOT the SAME without a cat.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Elan Gallery Bowl life is NOT the SAME without a cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Elan Gallery a purple bowl with a paw and hearts.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Elan Gallery a purple bowl with a paw and hearts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\FELIX AGAIL POUCHES 12PCS ASSORTED.jpeg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\FELIX AGAIL POUCHES 12PCS ASSORTED.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\FELIX POUCHES X12 PCS.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\FELIX POUCHES X12 PCS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\FELIX SENSATIONS 12x100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\FELIX SENSATIONS 12x100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Ferplast Rabbit 100 95x57x46 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Ferplast Rabbit 100 95x57x46 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Florida.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Florida.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Flying disc for dogs diameter 23 cm green.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Flying disc for dogs diameter 23 cm green.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\For daily use the collar.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\For daily use the collar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Fox Dog Toy with Squeaker 18 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Fox Dog Toy with Squeaker 18 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GIMCAT PATE DELUXE WPOULTRY 3X21G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GIMCAT PATE DELUXE WPOULTRY 3X21G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GIMCAT PATE DELUXE WVEAL 3X21G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GIMCAT PATE DELUXE WVEAL 3X21G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GIMCAT SUPER FOOD CHICKEN AND APPLES 70G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GIMCAT SUPER FOOD CHICKEN AND APPLES 70G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GIMCAT SUPER FOOD CHICKEN AND CARROTS 70G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GIMCAT SUPER FOOD CHICKEN AND CARROTS 70G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GIMCAT SUPER FOOD TONNO AND TOMATOES 70G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GIMCAT SUPER FOOD TONNO AND TOMATOES 70G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GIMCAT SUPER FOOD TONNO AND ZUCCHINI 70G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GIMCAT SUPER FOOD TONNO AND ZUCCHINI 70G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GOURMET CREATIONS 8-PACK 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GOURMET CREATIONS 8-PACK 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GOURMET CREATIONS 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GOURMET CREATIONS 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GOURMET MON PETIT 6 X 50G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GOURMET MON PETIT 6 X 50G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GOURMET PERLE 40 PACK POUCHES.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GOURMET PERLE 40 PACK POUCHES.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\GOURMET REVELATIONS MOUSSE.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\GOURMET REVELATIONS MOUSSE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Hanging Bird Toy 16-20cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Hanging Bird Toy 16-20cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Homepet 51320 Collar.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Homepet 51320 Collar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\House for rabbits SIN 4646 wooden.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\House for rabbits SIN 4646 wooden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Hungry Rodent Bowl 8.5 cm grey.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Hungry Rodent Bowl 8.5 cm grey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K-9 SENIOR LIGHT LAMB & HERBS 10KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K-9 SENIOR LIGHT LAMB & HERBS 10KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K9 ADULT RABBIT & ROSEMARY 10KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K9 ADULT RABBIT & ROSEMARY 10KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K9 ADULT WILD BOAR & BERRY 3KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K9 ADULT WILD BOAR & BERRY 3KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K9 CAT BEEF & LIVER 415GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K9 CAT BEEF & LIVER 415GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K9 CAT CHICKEN & TURKEY 415GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K9 CAT CHICKEN & TURKEY 415GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K9 CAT TROUT 415GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K9 CAT TROUT 415GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\JULIUS K9 PUPPY LAMB & HERBS 3KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\JULIUS K9 PUPPY LAMB & HERBS 3KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA MOKRA FEEL THE WILD DEER 800G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA MOKRA FEEL THE WILD DEER 800G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA MOKRA FEEL THE WILD DUCK 800G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA MOKRA FEEL THE WILD DUCK 800G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA MOKRA PREMIUM SELECTION BEEF 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA MOKRA PREMIUM SELECTION BEEF 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA MOKRA PREMIUM SELECTION TURKEY 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA MOKRA PREMIUM SELECTION TURKEY 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA PREMIUM SELECTION 100% BEEF 850G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA PREMIUM SELECTION 100% BEEF 850G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA PREMIUM SELECTION 100% LAMB 850G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA PREMIUM SELECTION 100% LAMB 850G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA PREMIUM SELECTION 100% TURKEY 850G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA PREMIUM SELECTION 100% TURKEY 850G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KARMA PREMIUM SELECTION 100% TURKEY1 850G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KARMA PREMIUM SELECTION 100% TURKEY1 850G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KIKI GOLD GRAN 500G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KIKI GOLD GRAN 500G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KIKI GOLD GRAN 50G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KIKI GOLD GRAN 50G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KIKI MAX MENU GOLDFINCH 500G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KIKI MAX MENU GOLDFINCH 500G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KIKI SPIRULINA WAFERS 400G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KIKI SPIRULINA WAFERS 400G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KIKI YELLOW 9 MILLET 25KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KIKI YELLOW 9 MILLET 25KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\KPH CHICK CRUMBS 25KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\KPH CHICK CRUMBS 25KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Kimy cave lounger for cats of small and medium breeds, 72x40x40 cm, gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Kimy cave lounger for cats of small and medium breeds, 72x40x40 cm, gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\LGold.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\LGold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Lounger Relax 70x60x18 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Lounger Relax 70x60x18 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Luminous LED Dog Collar.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Luminous LED Dog Collar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Luminous LED Nylon Dog Collar LED for Pet Paradise.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Luminous LED Nylon Dog Collar LED for Pet Paradise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\MINI STARTER MOTHER & BABY 4KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\MINI STARTER MOTHER & BABY 4KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Metal bowl with holder, 0.15l.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Metal bowl with holder, 0.15l.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Midwest Snapy Fit Bowl 40-10 300 ml.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Midwest Snapy Fit Bowl 40-10 300 ml.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Muzzle Muzzle Flex, silicone, XL, black.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Muzzle Muzzle Flex, silicone, XL, black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Muzzle size L (31cm) plastic.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Muzzle size L (31cm) plastic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Muzzle size M (22cm) plastic.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Muzzle size M (22cm) plastic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\NATURO ADULT 390G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\NATURO ADULT 390G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\NOW FRESH.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\NOW FRESH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Natural wooden ladder for birds, 28 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Natural wooden ladder for birds, 28 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Noah cave lounger for cats of small breeds, 40x45x43 cm, gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Noah cave lounger for cats of small breeds, 40x45x43 cm, gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Nobby Bowl with Dog Pattern for Dogs 240 ml Black.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Nobby Bowl with Dog Pattern for Dogs 240 ml Black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Nylon muzzle, 28-38 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Nylon muzzle, 28-38 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Orthopedic sofa of medium and large breeds, 120x85x30 cm, black.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Orthopedic sofa of medium and large breeds, 120x85x30 cm, black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PANZI REGULAR CAT BEEF 800G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PANZI REGULAR CAT BEEF 800G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PANZI REGULAR CAT POULTRY 800G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PANZI REGULAR CAT POULTRY 800G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PANZI REGULAR DOG FOOD BEEF 415G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PANZI REGULAR DOG FOOD BEEF 415G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PANZI REGULAR DOG FOOD CHICKEN 415G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PANZI REGULAR DOG FOOD CHICKEN 415G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PANZI REGULAR DOG FOOD POULTRY 415G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PANZI REGULAR DOG FOOD POULTRY 415G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PANZI REGULAR WET DOG FOOD GAME 415G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PANZI REGULAR WET DOG FOOD GAME 415G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PETREET SFILACCETTI DI POLLO e SALMONE 70GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PETREET SFILACCETTI DI POLLO e SALMONE 70GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PETREET SFILACCETTI DI POLO FEGATINI 70G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PETREET SFILACCETTI DI POLO FEGATINI 70G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PETREET VE01 TONNO 6X70GR VALUE PACK.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PETREET VE01 TONNO 6X70GR VALUE PACK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PETREET VE04 POLLO 6X70GR VALUE PACK.jpeg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PETREET VE04 POLLO 6X70GR VALUE PACK.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PRINCE CHUNKY FEAST 95G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PRINCE CHUNKY FEAST 95G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE ADULT SELECTION LAMB 11KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE ADULT SELECTION LAMB 11KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE ADULT SELECTION LAMB 2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE ADULT SELECTION LAMB 2KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE DOG ADULT 7+ 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE DOG ADULT 7+ 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE DOG ADULT 7+ 2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE DOG ADULT 7+ 2KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE DOG LIGHT AND STERILISED 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE DOG LIGHT AND STERILISED 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE MAXI ADULT 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE MAXI ADULT 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE MAXI JUNIOR 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE MAXI JUNIOR 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE MEDIUM ADULT 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE MEDIUM ADULT 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE MEDIUM ADULT 2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE MEDIUM ADULT 2KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE MINI ADULT 2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE MINI ADULT 2KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE MINI ADULT 8KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE MINI ADULT 8KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE PUPPY 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE PUPPY 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PURELIFE PUPPY 2KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PURELIFE PUPPY 2KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PUUR BUDGIE 2.4KG 20% FREE.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PUUR BUDGIE 2.4KG 20% FREE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\PUUR CANARY 2.4KG 20% FREE.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\PUUR CANARY 2.4KG 20% FREE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Perch with chain swing 10x14.5x13 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Perch with chain swing 10x14.5x13 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Plush Friendz Fox Dog Toy with Squeaker 9 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Plush Friendz Fox Dog Toy with Squeaker 9 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Protection from poisoned baits.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Protection from poisoned baits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN AGEING 12+ IN GRAVY (12X85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN AGEING 12+ IN GRAVY (12X85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN BABYCAT INSTINCTIVE MOUSSE 195G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN BABYCAT INSTINCTIVE MOUSSE 195G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN CCN MAXI LIGHT WEIGHT CARE 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN CCN MAXI LIGHT WEIGHT CARE 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN CCN MEDIUM DIGEST CARE 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN CCN MEDIUM DIGEST CARE 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN DIGESTIVE SENSITIVE GRAVY (12x85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN DIGESTIVE SENSITIVE GRAVY (12x85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN INSTINCTIVE 7+ GRAVY WET (12x85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN INSTINCTIVE 7+ GRAVY WET (12x85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN INSTINCTIVE JELLY WET (12X85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN INSTINCTIVE JELLY WET (12X85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN INTENSE BEAUTY JELLY WET (12X85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN INTENSE BEAUTY JELLY WET (12X85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN KITTEN JELLY WET (12X85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN KITTEN JELLY WET (12X85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN MAXI DIGESTIVE CARE 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN MAXI DIGESTIVE CARE 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN MAXI STERILISED 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN MAXI STERILISED 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN MEDIUM DERMACOMFORT 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN MEDIUM DERMACOMFORT 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN MEDIUM LIGHT WEIGHTCARE 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN MEDIUM LIGHT WEIGHTCARE 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN MEDIUM STERILISED 12KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN MEDIUM STERILISED 12KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN SENSORY FEEL 12x85GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN SENSORY FEEL 12x85GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN SENSORY SMELL 12X85GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN SENSORY SMELL 12X85GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN SENSORY TASTE 12x85GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN SENSORY TASTE 12x85GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN STERILISED GRAVY (12x85G).jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN STERILISED GRAVY (12x85G).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ROYAL CANIN ULTRA LIGHT JELLY 12x85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ROYAL CANIN ULTRA LIGHT JELLY 12x85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Rabbit bowl 250ml 11cm ceramic.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Rabbit bowl 250ml 11cm ceramic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Rodent bowl 8.5 cm orange.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Rodent bowl 8.5 cm orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Rodent bowl 8.5 cm white orange.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Rodent bowl 8.5 cm white orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Rodent bowl Cabbage leaf 12 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Rodent bowl Cabbage leaf 12 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Rodent bowl double 12.5 cm orange.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Rodent bowl double 12.5 cm orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Roulette New comfort m cable 8 m to 20 kg, blue.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Roulette New comfort m cable 8 m to 20 kg, blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Round couch with removable cover - Giro, M - 65x17cm, Caramel brown.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Round couch with removable cover - Giro, M - 65x17cm, Caramel brown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SCHESIR CAT POUCHES.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SCHESIR CAT POUCHES.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SCHESIR DOG 285G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SCHESIR DOG 285G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SHEBA POUCHES 12PCS.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SHEBA POUCHES 12PCS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SHEBA POUCHES 80-PACK.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SHEBA POUCHES 80-PACK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SHEBA POUCHES ASSORTED 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SHEBA POUCHES ASSORTED 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SIMBA 6-PACK OCEAN SELECTION 85G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SIMBA 6-PACK OCEAN SELECTION 85G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\SKALORA 25KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\SKALORA 25KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Samoa Vital sunbed, 120x105 cm, black.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Samoa Vital sunbed, 120x105 cm, black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Scratching post-bed.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Scratching post-bed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Shelf with perch and swing 12x19x12 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Shelf with perch and swing 12x19x12 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Socks for dogs L pink.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Socks for dogs L pink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Sofa Goya grande for large breeds, eco-leather, 107x70x38 cm, gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Sofa Goya grande for large breeds, eco-leather, 107x70x38 cm, gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Squirrel dog toy, 34cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Squirrel dog toy, 34cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Stainless Steel Bowl, Trixie.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Stainless Steel Bowl, Trixie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Stainless steel bowl.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Stainless steel bowl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Sunbed 40x30x12 cm beige.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Sunbed 40x30x12 cm beige.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Sunbed 50x40x17 cm gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Sunbed 50x40x17 cm gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Sunbed cave for cats 45x33cm Livia.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Sunbed cave for cats 45x33cm Livia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Sunbed for dogs of small breeds, 58x58x32 cm, pink.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Sunbed for dogs of small breeds, 58x58x32 cm, pink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Super Design Wave Bowl for Dogs 350 ml Black.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Super Design Wave Bowl for Dogs 350 ml Black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Swing for birds Ter 4084.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Swing for birds Ter 4084.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\TERTAPOND FLOATING STICKS 100GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\TERTAPOND FLOATING STICKS 100GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\TETRACICHLID 75GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\TETRACICHLID 75GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\TETRAMIN FLAKES 200GR.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\TETRAMIN FLAKES 200GR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\TOMI POUCHES 100G.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\TOMI POUCHES 100G.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\TRENDY DINNER DOUBLE CAT LUXURIOUS PETS.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\TRENDY DINNER DOUBLE CAT LUXURIOUS PETS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\TURBODOG 3KG DRY ADULT CHICKEN.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\TURBODOG 3KG DRY ADULT CHICKEN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\The Drop House.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\The Drop House.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\The star bed is 50x40x20 cm gray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\The star bed is 50x40x20 cm gray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Toy for cats Baby Beaver with catnip 11 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Toy for cats Baby Beaver with catnip 11 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Toy for cats Owl made of cardboard.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Toy for cats Owl made of cardboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Toy for cats Plastic Balls 4 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Toy for cats Plastic Balls 4 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Toy for cats Raccoon with catnip 8 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Toy for cats Raccoon with catnip 8 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Toy for dogs Llama, 20 cm.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Toy for dogs Llama, 20 cm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Triol Ceramic Fox Bowl 450 ml white.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Triol Ceramic Fox Bowl 450 ml white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\W.M. PLUS OYSTER GRIT 4KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\W.M. PLUS OYSTER GRIT 4KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\WHISKAS ADULT STERILE 1.4KG.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\WHISKAS ADULT STERILE 1.4KG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\ZOO PLAST bowls, with tray.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\ZOO PLAST bowls, with tray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\Zootechnology collar-M 14751.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\Zootechnology collar-M 14751.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\butchers.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\butchers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\next.png",
+      "PackagePath": "staticwebassets\\images\\catalogue\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\paoeglnagl.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\paoeglnagl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\prev.png",
+      "PackagePath": "staticwebassets\\images\\catalogue\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\images\\catalogue\\snakes.jpg",
+      "PackagePath": "staticwebassets\\images\\catalogue\\snakes.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\Desktop\\Диплом\\project\\IStore\\implementation\\IStore\\IStore.Web\\wwwroot\\js\\site.js",

@@ -12,31 +12,31 @@
   padding: 1em 0;
 }
 
-label.add-to{
-	display:block;
+label.add-to {
+	display: block;
 	font-size: 2em;
-	color: #fa7455;
+	color: #003ac2;
 }
 
 .available {
   padding: 2em 0 1em;
 }
 
-a.cart{
-  padding: 7px;
-  color: #FFF;
-  background: #615c85;
-  margin: 1.5em 0 0;
-  font-size: 1em;
-  display: block;
-  line-height: 1.6em;
-  width: 32%;
-  text-align: center;
-  text-decoration:none;
+a.cart {
+	padding: 7px;
+	color: #FFF;
+	background: #09c888;
+	margin: 1.5em 0 0;
+	font-size: 1em;
+	display: block;
+	line-height: 1.6em;
+	width: 32%;
+	text-align: center;
+	text-decoration: none;
 }
-a.cart:hover{
-	background: #8fbf00;
-}
+	a.cart:hover {
+		background: #37D29E;
+	}
 
 .sap_tabs{
 	padding: 1em 0;
@@ -97,10 +97,10 @@ a.cart:hover{
 	padding-bottom: 20px;
 	position: relative;
 }
-.products-main__link:hover {
-	border-color: #cb2d41;
-	color: #111;
-}
+	.products-main__link:hover {
+		border-color: #2E5FDC;
+		color: #111;
+	}
 .products-main__link:hover .products-main__btn-group {
 	opacity: 1;
 	visibility: visible;
@@ -128,9 +128,9 @@ a.cart:hover{
 	padding-bottom: 10px;
 }
 .products-main__price {
-	font-size: 12px;
+	font-size: 19px;
 	font-family: Roboto-Bold;
-	color: #cb2d41;
+	color: #BF8607;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -165,10 +165,10 @@ a.cart:hover{
 	align-items: center;
 	justify-content: center; 
 }
-.products-main__btn:hover {
-    background-color: #cb2d41;
-    border-color: #cb2d41;
-}
+	.products-main__btn:hover {
+		background-color: #2e5fdc;
+		border-color: #2e5fdc;
+	}
 .products-main__btn-icon {
  transition: all .3s;
 }
